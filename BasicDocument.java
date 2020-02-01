@@ -70,7 +70,7 @@ public class BasicDocument extends Document
 	 *       Each contiguous sequence of one or more vowels is a syllable, 
 	 *       with the following exception: a lone "e" at the end of a word 
 	 *       is not considered a syllable unless the word has no other syllables. 
-	 *       You should consider y a vowel.
+	 *       You should consider y a vowel..
 	 *       
 	 * Check the examples in the main method below for more information.  
 	 * 

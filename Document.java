@@ -78,7 +78,7 @@ public abstract class Document {
 			// get list of Strings of syllables in word, by spliting string(word) at any other 
 			// char than aeiouy or AEIOUY one or more times, this gives us string of syllables
 			// and put continuous syllables as single element in list, which is requirement as
-			// per rules of this task.
+			// per rules of this task..
 			String[] syll = newWord.split("[^aAeEiIoOuUyY]+");
 			
 			newWord = null;
